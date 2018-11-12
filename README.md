@@ -1,3 +1,18 @@
+__**KIngdom Turn 4 Summary**__\
+_Claimed Hexes:_\
+1742, 2040, 1639\
+_Hex Improvements:_\
+1742: farm\
+1941: road\
+_Settlement Improvements:_\
+Capital: Housing, Temple (3/4), legendary smithy\
+_Event_
+Inquisition: +1 Infamy, +1 Law, -2 Lore, -2 Loyalty, -2 productivity, -2 Stability\
+_Current Treasury:_\
+35 BP\
+\
+\
+\
 __**KIngdom Turn 3 Summary**__\
 _Claimed Hexes:_\
 1739, 2140, 2240\
