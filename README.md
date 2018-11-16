@@ -1,3 +1,23 @@
+__**KIngdom Turn 5 Summary**__\
+_Claimed Hexes:_\
+1539, 1642, 1940, 2340\
+_Hex Improvements:_\
+1539: farm
+1642: farm
+2041: road\
+_Settlement Improvements:_\
+Capital: Housing, Temple (4/4), Dance Hall (legendary)\
+_Event_
+Inquisition (ongoing [1 success]): modifiers suppressed for this turn\
+Gnoll Raid: Razed farm in 1739\
+Sarlonan Ammassador Arrives\
+Available Magic Item Slots:\
+minor (2):\
+_Current Treasury:_\
+24 BP\
+\
+\
+\
 __**KIngdom Turn 4 Summary**__\
 _Claimed Hexes:_\
 1742, 2040, 1639\
