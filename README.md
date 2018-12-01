@@ -12,7 +12,7 @@ Inquisition (ongoing [1 success]): modifiers suppressed for this turn\
 Gnoll Raid: Razed farm in 1739\
 Sarlonan Ammassador Arrives\
 Available Magic Item Slots:\
-minor (2):\
+minor (2): Scroll Cure light wounds, potion endure elements\
 _Current Treasury:_\
 24 BP\
 \
