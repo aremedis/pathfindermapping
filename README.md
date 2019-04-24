@@ -1,3 +1,41 @@
+__**Kingdom Turn 7 Summary**__\
+_Claimed Hexes:_\
+1541, 2540\
+_Hex Improvements:_\
+Farm: 1541\
+Mine: 2040\
+\
+_Settlement Improvements:_\
+Capital: house (free), legendary tavern (2/2), inn (2/2)\
+_Event_
+Feud: [Failed Loyalty Check] Corruption increases by 1, Unrest increases by 5, check again next month.\
+\
+Available Magic Item Slots:\
+minor (2): Scroll of Bull's Strength (CL3), Potion of Owl's Wisdom \
+_Current Treasury:_\
+16 BP\
+\
+\
+\
+__**Kingdom Turn 6 Summary**__\
+_Claimed Hexes:_\
+2240, 1540\
+_Hex Improvements:_\
+farm (rebuild): 1739\
+farm: 1540\
+_Settlement Improvements:_\
+Capital: house (free), legendary tavern (1/2), inn (1/2)\
+_Event_
+Inquisition (ongoing [2 success]): modifiers suppressed for this turn\
+Food Shortage [stability roll success]: Consumption increased by 50% for turn 7\
+\
+Available Magic Item Slots:\
+minor (2): Scroll of Bull's Strength (CL3), Potion of Owl's Wisdom \
+_Current Treasury:_\
+22 BP\
+\
+\
+\
 __**KIngdom Turn 5 Summary**__\
 _Claimed Hexes:_\
 1539, 1642, 1940, 2340\
