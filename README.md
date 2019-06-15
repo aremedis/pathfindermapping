@@ -1,3 +1,59 @@
+__**Kingdom Turn 10 Summary**__\
+_Claimed Hexes:_\
+2841, 1939\
+_Hex Improvements:_\
+\
+\
+_Settlement Improvements:_\
+Capital: house (free), shrine of anubis (Legend) (1/2), shop (Legend) (1/2)\
+_Event_\
+Improvement: Farmers demand fisheries
+\
+Available Magic Item Slots:\
+minor (2): \
+_Current Treasury:_\
+ BP\
+\
+\
+\__**Kingdom Turn 9 Summary**__\
+_Claimed Hexes:_\
+NONE\
+_Hex Improvements:_\
+NONE\
+\
+_Settlement Improvements:_\
+Capital: house (free), Brewery (Legendary), City Walls (L)\
+_Event_
+Feud: [Resolved]\
+Discovery: creation of sand golems +1 Fame, +1d4 (2) Lore
+\
+Available Magic Item Slots:\
+minor (2): \
+_Current Treasury:_\
+ BP 25\
+**UNREST 0**\
+\
+\
+\__**Kingdom Turn 8 Summary**__\
+_Claimed Hexes:_\
+2641, 2740\
+_Hex Improvements:_\
+Farm: 1940\
+\
+_Settlement Improvements:_\
+Capital: house (free), legendary park, monument\
+_Event_
+Feud: [Failed Loyalty Check] Corruption increases by 1, Unrest increases by 1d6 (6), check again next month.\
+Unexpected Find: [1,500 gp] brooch of shielding\
+\
+Available Magic Item Slots:\
+minor (2): wand of cure light wounds (CL1) (50), wand of cure light wounds (CL1) (50) \
+_Current Treasury:_\
+ BP 17\
+**UNREST 6**\
+\
+\
+\
 __**Kingdom Turn 7 Summary**__\
 _Claimed Hexes:_\
 1541, 2540\
