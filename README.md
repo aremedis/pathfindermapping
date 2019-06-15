@@ -10,9 +10,10 @@ _Event_\
 Improvement: Farmers demand fisheries
 \
 Available Magic Item Slots:\
-minor (2): \
+minor (2): wand of cure light wounds (CL3) (50) x2, brooch of shielding\
 _Current Treasury:_\
- BP\
+ BP 36\
+**UNREST 0**\
 \
 \
 \__**Kingdom Turn 9 Summary**__\
