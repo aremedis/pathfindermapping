@@ -2,7 +2,7 @@ __**Kingdom Turn 10 Summary**__\
 _Claimed Hexes:_\
 2841, 1939\
 _Hex Improvements:_\
-\
+NONE\
 \
 _Settlement Improvements:_\
 Capital: house (free), shrine of anubis (Legend) (1/2), shop (Legend) (1/2)\
@@ -16,7 +16,8 @@ _Current Treasury:_\
 **UNREST 0**\
 \
 \
-\__**Kingdom Turn 9 Summary**__\
+\
+__**Kingdom Turn 9 Summary**__\
 _Claimed Hexes:_\
 NONE\
 _Hex Improvements:_\
@@ -35,7 +36,8 @@ _Current Treasury:_\
 **UNREST 0**\
 \
 \
-\__**Kingdom Turn 8 Summary**__\
+\
+__**Kingdom Turn 8 Summary**__\
 _Claimed Hexes:_\
 2641, 2740\
 _Hex Improvements:_\
