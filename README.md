@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Faremedis%2Fpathfindermapping%2Fbadge%3Fref%3Daremedis-actionstesting&style=for-the-badge)](https://actions-badge.atrox.dev/aremedis/pathfindermapping/goto?ref=aremedis-actionstesting)
+
 __**Kingdom Turn 10 Summary**__\
 _Claimed Hexes:_\
 2841, 1939\
